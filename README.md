@@ -36,7 +36,7 @@ Born in Taiwan, currently based in Tokyo. Always exploring ways to connect real-
 ![TseHsuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsehsuan1102&show_icons=true&theme=default&hide_title=true)
 
 #### 🔹 Frequently Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsehsuan1102&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsehsuan1102&layout=compact&hide_title=true&exclude_repo=VR_final_project)
 
 ---
 
